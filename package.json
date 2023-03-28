@@ -1,0 +1,20 @@
+{
+  "name": "loja_celular",
+  "version": "1.0.0",
+  "description": "Backend de uma loja de celulares",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Loja",
+    "Celular"
+  ],
+  "author": "Andre Luiz de Jesus Cabo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
